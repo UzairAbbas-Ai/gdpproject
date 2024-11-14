@@ -131,7 +131,7 @@ function drawSankey(year) {
         }],
         layout: {
             title: `Pakistan GDP Shares (${year})`,
-            font: { size: 18 },
+            font: { size: 10 },
             height: 600,
             width: 900
         }
